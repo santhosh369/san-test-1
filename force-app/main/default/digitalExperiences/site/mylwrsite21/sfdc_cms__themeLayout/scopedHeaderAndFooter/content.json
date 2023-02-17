@@ -33,6 +33,14 @@
             "sectionConfig" : "{\"UUID\":\"5cc73ca1-2c79-48c1-b56f-5fb231921f46\",\"columns\":[{\"UUID\":\"0e21881d-97eb-494c-b8ec-0712bd120f9a\",\"columnName\":\"Column 1\",\"columnKey\":\"footerSection\",\"columnWidth\":\"12\",\"seedComponents\":null}]}"
           },
           "children" : [ {
+            "children" : [ {
+              "attributes" : {
+                "richTextValue" : "Replace this text with content of your own."
+              },
+              "definition" : "community_builder:richTextEditor",
+              "id" : "65979902-f263-4079-b302-f00a8f405308",
+              "type" : "component"
+            } ],
             "id" : "0e21881d-97eb-494c-b8ec-0712bd120f9a",
             "name" : "footerSection",
             "title" : "Theme Footer",
