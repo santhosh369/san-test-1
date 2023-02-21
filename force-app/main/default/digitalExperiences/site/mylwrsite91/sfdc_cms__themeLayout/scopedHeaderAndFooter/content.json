@@ -12,6 +12,23 @@
             "sectionConfig" : "{\"UUID\":\"6d8f431e-68c4-4b64-ba75-433613773286\",\"columns\":[{\"UUID\":\"a0a8c57e-a9a7-4ef2-908d-9d4355190aa7\",\"columnName\":\"Column 1\",\"columnKey\":\"headerSection\",\"columnWidth\":\"12\",\"seedComponents\":null}]}"
           },
           "children" : [ {
+            "children" : [ {
+              "attributes" : {
+                "backgroundColor" : "rgb(255, 255, 255)",
+                "borderColor" : "rgb(37, 116, 169)",
+                "borderRadius" : "0px",
+                "buttonBackgroundColor" : "rgb(37, 116, 169)",
+                "buttonBackgroundHoverColor" : "rgb(37, 116, 169)",
+                "iconColor" : "rgb(255, 255, 255)",
+                "placeholderText" : "Search...",
+                "placeholderTextColor" : "#4a4a4a",
+                "showSearchButton" : true,
+                "textColor" : "rgb(51, 51, 51)"
+              },
+              "definition" : "dxp_search:searchInput",
+              "id" : "3ce84815-dc07-4039-a4b7-38d8b08db342",
+              "type" : "component"
+            } ],
             "id" : "a0a8c57e-a9a7-4ef2-908d-9d4355190aa7",
             "name" : "headerSection",
             "title" : "Theme Header",
