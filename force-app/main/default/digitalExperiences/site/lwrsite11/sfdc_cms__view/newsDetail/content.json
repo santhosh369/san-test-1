@@ -8,19 +8,19 @@
           "attributes" : {
             "backgroundImageConfig" : "",
             "backgroundImageOverlay" : "rgba(0,0,0,0)",
-            "sectionConfig" : "{\"UUID\":\"621134fc-4284-46b1-89c6-ba6b05a6c71a\",\"columns\":[{\"UUID\":\"dada4bf2-a2ed-4ae5-98c1-a40a0fb5c8a0\",\"columnName\":\"Column 1\",\"columnKey\":\"col1\",\"columnWidth\":\"12\",\"seedComponents\":[]}]}"
+            "sectionConfig" : "{\"UUID\":\"be7d6e8b-32f8-4289-956b-3ee55135b991\",\"columns\":[{\"UUID\":\"a3300e39-1c39-48ea-b4bb-9ffb8f24c65c\",\"columnName\":\"Column 1\",\"columnKey\":\"col1\",\"columnWidth\":\"12\",\"seedComponents\":[]}]}"
           },
           "children" : [ {
-            "id" : "dada4bf2-a2ed-4ae5-98c1-a40a0fb5c8a0",
+            "id" : "a3300e39-1c39-48ea-b4bb-9ffb8f24c65c",
             "name" : "col1",
             "title" : "Column 1",
             "type" : "region"
           } ],
           "definition" : "community_layout:section",
-          "id" : "621134fc-4284-46b1-89c6-ba6b05a6c71a",
+          "id" : "be7d6e8b-32f8-4289-956b-3ee55135b991",
           "type" : "component"
         } ],
-        "id" : "fb11dd6c-f536-4aa6-be1f-2309700b68d6",
+        "id" : "9df0637e-0647-4f55-b861-6e7299f1e733",
         "name" : "content",
         "title" : "Content",
         "type" : "region"
@@ -33,16 +33,16 @@
             "recordId" : "{!recordId}"
           },
           "definition" : "community_builder:seoAssistant",
-          "id" : "2a6b5574-486b-40f0-9d9a-d334112c26ba",
+          "id" : "2400392b-6b60-4f65-a49a-f29eda45364b",
           "type" : "component"
         } ],
-        "id" : "394cdae3-ad87-42f2-beee-76dcf5f5e6b8",
+        "id" : "f024b2bd-027a-4ac6-ba2d-ffda2145182b",
         "name" : "sfdcHiddenRegion",
         "title" : "sfdcHiddenRegion",
         "type" : "region"
       } ],
       "definition" : "community_layout:sldsFlexibleLayout",
-      "id" : "79c26406-86c8-4173-b32d-247dc6223dbf",
+      "id" : "416bc931-b39f-4029-acce-436079fd51c5",
       "type" : "component"
     },
     "themeLayoutType" : "Inner",
