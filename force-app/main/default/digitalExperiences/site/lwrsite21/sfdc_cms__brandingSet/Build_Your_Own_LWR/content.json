@@ -59,7 +59,7 @@
       "FormElementBorderWidth" : "1px",
       "FormElementLabelColor" : "var(--dxp-g-root-contrast)",
       "FormElementTextColor" : "var(--dxp-g-root-contrast)",
-      "HeadingExtraLargeColor" : "var(--dxp-g-root-contrast)",
+      "HeadingExtraLargeColor" : "rgb(25, 26, 30)",
       "HeadingExtraLargeFont" : "Salesforce Sans",
       "HeadingExtraLargeFontSize" : "2.5rem",
       "HeadingExtraLargeFontStyle" : "normal",
